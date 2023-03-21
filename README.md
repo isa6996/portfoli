@@ -8,3 +8,7 @@ Els móduls que he fet són:
 - [M03 Programació](https://github.com/isa6996/portfoli/tree/main/portfoli/moduls/Curs%201/programacion)
 - [M04 Llenguatge de marques](https://github.com/isa6996/portfoli/tree/main/portfoli/moduls/Curs%201/llenguatge%20de%20marques)
 - [M12 FOL](https://github.com/isa6996/portfoli/tree/main/portfoli/moduls/Curs%201/fol)
+
+
+Els estudis de DAM els vaig feer a l'institut copernic
+![Logo](https://campus.copernic.cat/pluginfile.php/1/theme_adaptable/logo/1675348299/NicolauCopernic-LOGO.png)
