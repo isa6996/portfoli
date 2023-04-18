@@ -1,0 +1,69 @@
+*{
+    margin: 0 auto;
+}
+
+
+#cabesa {
+    background-color: rgb(156, 251, 224);
+    color: rgb(98, 0, 255);
+    width: 100vw;
+    height: 17vh;
+    float: left;
+    text-align: center;
+}
+
+.cabecera{
+    float: left;
+    margin: 20px 114px 20px 220px;
+}
+#ventanas{
+    background-color: rgb(186, 156, 251);
+    color: rgb(0, 179, 255);
+    height: 20vh;
+    text-align: center;
+}
+.ventanita{
+    margin-left: 128px;
+    margin-right: 166px;
+}
+#prese{
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+}
+
+.galeria {
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+    flex-wrap: wrap; 
+    flex-basis: 100%;
+}
+.foto{
+    width: 23vw;
+}
+.foto img {
+    width: 200px;
+    height: 200px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100vw;
+    background-color: rgb(241, 254, 174);
+    color: rgb(124, 67, 17);
+    border: 0px;    
+}
+.elon{
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(177, 254, 174);
+    color: rgb(17, 124, 40);
+    width: 100vw;
+    float: left;
+}
+.pie{
+    text-align: center;
+    }

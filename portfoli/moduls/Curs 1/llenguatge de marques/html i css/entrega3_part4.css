@@ -1,0 +1,64 @@
+* {
+    margin: 0 auto;
+}
+
+#cabesa {
+    background-color: rgb(156, 251, 224);
+    color: rgb(98, 0, 255);
+    width: 100vw;
+    height: 17vh;
+    text-align: center;
+}
+
+.cabecera1 {
+    float: left;
+    display: block;
+    margin: 25px 120px 1px 450px;
+}
+
+.cabecera2 {
+    float: left;
+    display: block;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.enllaz {
+    background-color: rgb(156, 185, 251);
+    color: rgb(50, 24, 201);
+    float: left;
+    text-align: center;
+    width: 100vw;
+    height: 5vh;    
+}
+.enllas{
+    margin: 10px 183px 0px 235px;
+    float: left;
+    text-align: center;
+}
+main{
+    width: 100vw;
+    background-color: rgb(174, 254, 193);
+    color: rgb(33, 68, 131);
+    border: 0px;
+}
+.corp{
+    text-align: center;
+}
+.notissia{
+    margin:100px 400px 300px 400px;
+}
+.notissia4{
+    margin:100px 400px 0px 400px;
+}
+.corp img {
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.pie {
+    text-align: center;
+    background-color: rgb(159, 158, 249);
+}

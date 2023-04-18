@@ -1,0 +1,57 @@
+<style>* {
+    margin: 10%;
+}
+
+header .menu {
+    background-color: rgb(156, 251, 224);
+    color: rgb(98, 0, 255);
+    width: 97vw;
+    height: 16vh;
+    margin: 5px 98px 10px 10px;
+    float: left;
+}
+.menu{
+    text-align: center
+}
+
+#foto{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+
+.enllaz{
+    background-color: rgb(251, 156, 186);
+    color: rgb(247, 51, 51);
+    width: 32vw;
+    height: 3vh;
+    margin: 1px 0px 10px 10px;
+    float: left;
+    text-align: center;
+  }
+
+#div1 {
+    display: inline-block;
+    margin-right: 170px;
+    margin-top: 20px;
+}
+
+#div2 {
+    display: inline-block;
+    margin-right: 300px;
+}
+
+.cuerpo{
+    display: block;
+text-align: center;
+margin: 15px 350px 100px 350px;
+}
+.otro{
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+}
+
+</style>
