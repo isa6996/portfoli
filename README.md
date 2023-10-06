@@ -14,7 +14,7 @@ Els estudis de DAM els vaig feer a l'institut copernic
 
 
 Contacte del *LinkedIn*:
-[Perfil _Isabel Barroso_](https://www.linkedin.com/in/isabel-barroso-7662b51ba/)
+[Perfil **Isabel Barroso**](https://www.linkedin.com/in/isabel-barroso-7662b51ba/)
 
 ![Logo](https://campus.copernic.cat/pluginfile.php/1/theme_adaptable/logo/1675348299/NicolauCopernic-LOGO.png)
 
