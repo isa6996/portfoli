@@ -10,7 +10,7 @@ Els móduls que he fet són:
 - [M12 FOL](https://github.com/isa6996/portfoli/tree/main/portfoli/moduls/Curs%201/fol)
 
 
-Els estudis de DAM els vaig feer a l'institut copernic
+Els estudis de DAM els vaig fer a l'institut copernic
 
 
 Contacte del **LinkedIn**:
