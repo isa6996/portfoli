@@ -14,3 +14,6 @@ Els estudis de DAM els vaig feer a l'institut copernic
 
 
 ![Logo](https://campus.copernic.cat/pluginfile.php/1/theme_adaptable/logo/1675348299/NicolauCopernic-LOGO.png)
+
+Contacte del *LinkedIn*:
+[Perfil Isabel Barroso](https://www.linkedin.com/in/isabel-barroso-7662b51ba/)
